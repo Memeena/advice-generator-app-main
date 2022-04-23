@@ -51,6 +51,7 @@ Users should be able to:
 This challenge helped me to learn,
 
 - how to fetch from an API and use it in our page using normal fetch and through "async await".
+- how to handle error.
 - how to change an image(pattern-divider) in a page in the HTML itself based on the screen size.
 
 ### Continued development
