@@ -13,5 +13,8 @@ const getAdvice = function () {
     });
 };
 
+//For initial load
 getAdvice();
+
+//On dice click
 diceClick.addEventListener("click", getAdvice);
